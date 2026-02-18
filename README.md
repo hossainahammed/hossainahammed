@@ -32,12 +32,25 @@
 ---
 
 ## 🎯 About Me
-- 🔭 I’m currently working on Flutter projects
-- 🌱 I’m learning Advanced GetX & Clean Architecture
-- 💬 Ask me about Flutter, Dart, GetX, REST API, Firebase, ML, DS & Algorithms
-- 🏆 I’m aiming to become a Mid-level Flutter Developer
 
----
+<table>
+<tr>
+<td>
+
+- 🔭 I’m currently working on Flutter projects  
+- 🌱 I’m learning Advanced GetX & Clean Architecture  
+- 💬 Ask me about Flutter, Dart, GetX, REST API, Firebase, ML, DS & Algorithms  
+- 🏆 I’m aiming to become a Mid-level Flutter Developer  
+
+</td>
+<td>
+
+<img src="https://cdn.dribbble.com/users/325246/screenshots/3735988/programmer.gif" width="200" />
+
+</td>
+</tr>
+</table>
+
 
 ## 💻 My Projects
 
