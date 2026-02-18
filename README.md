@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Flutter projects
 - 🌱 I’m learning Advanced GetX & Clean Architecture
 - 💬 Ask me about Flutter, Dart, GetX
-- 📫 How to reach me: your-email@example.com
+- 📫 How to reach me: hossainahammed627@gmail.com
 
 ---
 
@@ -45,6 +45,6 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hossainahammed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hossain-ahammed)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossainahammed627@gmail.com)
