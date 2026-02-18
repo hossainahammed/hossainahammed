@@ -41,14 +41,16 @@
 
 ## 💻 My Projects
 
-| Project | Description | Tech | GIF/Screenshot |
-|---------|-------------|------|----------------|
-| e_commerce | Flutter E-commerce app | Flutter, Dart | ![e_commerce](https://media.giphy.com/media/3o7TKxW2vVmHHTu1Rm/giphy.gif) |
-| expense_tracker | Track expenses | Flutter, Dart | ![expense_tracker](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif) |
-| task_manager | Manage tasks | Flutter, Dart | ![task_manager](https://media.giphy.com/media/26uTt19a4UQk9mTT2/giphy.gif) |
-| unit_converter_app | Unit conversion app | Flutter, Dart | ![unit_converter](https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif) |
-| Gymnasium-Website | Website for Gym | HTML, CSS | ![website](https://media.giphy.com/media/3o7TKvV3kO2x1iHTOQ/giphy.gif) |
-| Traveler-main | Travel website | HTML | ![traveler](https://media.giphy.com/media/xUOxf3Po6a8x0Pvx3a/giphy.gif) |
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| e_commerce | Flutter E-commerce app | Flutter, Dart |
+| expense_tracker | Track expenses | Flutter, Dart |
+| task_manager | Manage tasks | Flutter, Dart |
+| unit_converter_app | Unit conversion app | Flutter, Dart |
+| Gymnasium-Website | Website for Gym | HTML, CSS |
+| Traveler-main | Travel website | HTML |
+
 
 > Replace GIF links with actual screen recordings or screenshots for best effect.
 
@@ -79,6 +81,6 @@
 
 ---
 
-## ✨ Fun Animated Typing
+## ✨ I am a.....
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F72D&lines=Flutter+Developer;CSE+Graduate;REST+API+%26+Firebase;ML+Enthusiast;Always+Learning+New+Things)
