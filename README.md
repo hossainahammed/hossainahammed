@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hossain Ahammed</h1>
-<h3 align="center">Flutter Developer | CSE Graduate | Passionate about Mobile Apps & AI</h3>
+<h3 align="center">Flutter Developer | CSE Graduate | Passionate about Mobile Apps</h3>
 
 <p align="center">
   <a href="https://github.com/hossainahammed">
@@ -32,25 +32,25 @@
 ---
 
 ## 🎯 About Me
-- 🔭 I’m currently working on Flutter apps and exploring Machine Learning
-- 🌱 I’m learning Advanced GetX, Clean Architecture & REST API integration
-- 💬 Ask me about Flutter, Dart, Firebase, REST API, ML, and Algorithms
-- 🏆 My goal: Become a Mid-level Flutter Developer & Build scalable apps
+- 🔭 I’m currently working on Flutter projects
+- 🌱 I’m learning Advanced GetX & Clean Architecture
+- 💬 Ask me about Flutter, Dart, GetX, REST API, Firebase, ML, DS & Algorithms
+- 🏆 I’m aiming to become a Mid-level Flutter Developer
 
 ---
 
 ## 💻 My Projects
 
-| Project | Description | Tech | Demo/GIF |
-|---------|-------------|------|-----------|
-| e_commerce | Flutter E-commerce app | Flutter, Dart, GetX, Firebase | ![e_commerce](https://media.giphy.com/media/3o7TKxW2vVmHHTu1Rm/giphy.gif) |
-| expense_tracker | Track expenses | Flutter, Dart, GetX, SQLite | ![expense_tracker](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif) |
-| task_manager | Manage tasks | Flutter, Dart, GetX, Hive | ![task_manager](https://media.giphy.com/media/26uTt19a4UQk9mTT2/giphy.gif) |
+| Project | Description | Tech | GIF/Screenshot |
+|---------|-------------|------|----------------|
+| e_commerce | Flutter E-commerce app | Flutter, Dart | ![e_commerce](https://media.giphy.com/media/3o7TKxW2vVmHHTu1Rm/giphy.gif) |
+| expense_tracker | Track expenses | Flutter, Dart | ![expense_tracker](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif) |
+| task_manager | Manage tasks | Flutter, Dart | ![task_manager](https://media.giphy.com/media/26uTt19a4UQk9mTT2/giphy.gif) |
 | unit_converter_app | Unit conversion app | Flutter, Dart | ![unit_converter](https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif) |
-| Gymnasium-Website | Gym website | HTML, CSS, JS | ![website](https://media.giphy.com/media/3o7TKvV3kO2x1iHTOQ/giphy.gif) |
-| Traveler-main | Travel website | HTML, CSS, JS | ![traveler](https://media.giphy.com/media/xUOxf3Po6a8x0Pvx3a/giphy.gif) |
+| Gymnasium-Website | Website for Gym | HTML, CSS | ![website](https://media.giphy.com/media/3o7TKvV3kO2x1iHTOQ/giphy.gif) |
+| Traveler-main | Travel website | HTML | ![traveler](https://media.giphy.com/media/xUOxf3Po6a8x0Pvx3a/giphy.gif) |
 
-> ⚡ Tip: Replace GIFs with actual screen recordings of your apps for a polished look.
+> Replace GIF links with actual screen recordings or screenshots for best effect.
 
 ---
 
@@ -66,13 +66,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hossainahammed">
+  <a href="https://www.linkedin.com/in/hossain-ahammed">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://www.facebook.com/yourprofile">
+  <a href="https://www.facebook.com/hossain.ahammed.hp">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:hossainahammed627@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -81,4 +81,4 @@
 
 ## ✨ Fun Animated Typing
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F72D&lines=Flutter+Developer;CSE+Graduate;ML+Enthusiast;Always+Learning+New+Things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F72D&lines=Flutter+Developer;CSE+Graduate;REST+API+%26+Firebase;ML+Enthusiast;Always+Learning+New+Things)
