@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hossain Ahammed</h1>
-<h3 align="center">Flutter Developer | CSE Graduate | Passionate about Mobile Apps</h3>
+<h3 align="center">Flutter Developer | CSE Graduate | Passionate about Mobile Apps & AI</h3>
 
 <p align="center">
   <a href="https://github.com/hossainahammed">
@@ -15,6 +15,12 @@
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img alt="GetX" src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge"/>
+  <img alt="REST API" src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-4B0082?style=for-the-badge"/>
+  <img alt="DBMS" src="https://img.shields.io/badge/DBMS-0DB14B?style=for-the-badge"/>
+  <img alt="DS" src="https://img.shields.io/badge/Data_Structures-FF5733?style=for-the-badge"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-008080?style=for-the-badge"/>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
   <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -26,25 +32,25 @@
 ---
 
 ## 🎯 About Me
-- 🔭 I’m currently working on Flutter projects
-- 🌱 I’m learning Advanced GetX & Clean Architecture
-- 💬 Ask me about Flutter, Dart, GetX
-- 🏆 I’m aiming to become a Mid-level Flutter Developer
+- 🔭 I’m currently working on Flutter apps and exploring Machine Learning
+- 🌱 I’m learning Advanced GetX, Clean Architecture & REST API integration
+- 💬 Ask me about Flutter, Dart, Firebase, REST API, ML, and Algorithms
+- 🏆 My goal: Become a Mid-level Flutter Developer & Build scalable apps
 
 ---
 
 ## 💻 My Projects
 
-| Project | Description | Tech | GIF/Screenshot |
-|---------|-------------|------|----------------|
-| e_commerce | Flutter E-commerce app | Flutter, Dart | ![e_commerce](https://media.giphy.com/media/3o7TKxW2vVmHHTu1Rm/giphy.gif) |
-| expense_tracker | Track expenses | Flutter, Dart | ![expense_tracker](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif) |
-| task_manager | Manage tasks | Flutter, Dart | ![task_manager](https://media.giphy.com/media/26uTt19a4UQk9mTT2/giphy.gif) |
+| Project | Description | Tech | Demo/GIF |
+|---------|-------------|------|-----------|
+| e_commerce | Flutter E-commerce app | Flutter, Dart, GetX, Firebase | ![e_commerce](https://media.giphy.com/media/3o7TKxW2vVmHHTu1Rm/giphy.gif) |
+| expense_tracker | Track expenses | Flutter, Dart, GetX, SQLite | ![expense_tracker](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif) |
+| task_manager | Manage tasks | Flutter, Dart, GetX, Hive | ![task_manager](https://media.giphy.com/media/26uTt19a4UQk9mTT2/giphy.gif) |
 | unit_converter_app | Unit conversion app | Flutter, Dart | ![unit_converter](https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif) |
-| Gymnasium-Website | Website for Gym | HTML, CSS | ![website](https://media.giphy.com/media/3o7TKvV3kO2x1iHTOQ/giphy.gif) |
-| Traveler-main | Travel website | HTML | ![traveler](https://media.giphy.com/media/xUOxf3Po6a8x0Pvx3a/giphy.gif) |
+| Gymnasium-Website | Gym website | HTML, CSS, JS | ![website](https://media.giphy.com/media/3o7TKvV3kO2x1iHTOQ/giphy.gif) |
+| Traveler-main | Travel website | HTML, CSS, JS | ![traveler](https://media.giphy.com/media/xUOxf3Po6a8x0Pvx3a/giphy.gif) |
 
-> You can replace these GIF links with your own project GIFs/screenshots
+> ⚡ Tip: Replace GIFs with actual screen recordings of your apps for a polished look.
 
 ---
 
@@ -60,13 +66,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hossain-ahammed">
+  <a href="https://www.linkedin.com/in/hossainahammed">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://www.facebook.com/hossain.ahammed.hp">
+  <a href="https://www.facebook.com/yourprofile">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"/>
   </a>
-  <a href="mailto:hossainahammed627@gmail.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -75,4 +81,4 @@
 
 ## ✨ Fun Animated Typing
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F72D&lines=Flutter+Developer;CSE+Graduate;Always+Learning+New+Things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F72D&lines=Flutter+Developer;CSE+Graduate;ML+Enthusiast;Always+Learning+New+Things)
