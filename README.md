@@ -52,7 +52,7 @@
 | Traveler-main | Travel website | HTML |
 
 
-> Replace GIF links with actual screen recordings or screenshots for best effect.
+
 
 ---
 
