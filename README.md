@@ -41,7 +41,7 @@
 - 🌱 Learning Advanced GetX & Clean Architecture  
 - 💬 Ask me about Flutter, Dart, GetX, REST API, Firebase  
 - 🏆 Aiming to become a Mid-Level Flutter Developer  
-- ⚡ Strong foundation in Data Structures, Algorithms & Machine Learning  
+- ⚡ Strong foundation in Data Structures, Algorithms & ML  
 
 </td>
 
