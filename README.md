@@ -23,7 +23,7 @@
   <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-008080?style=for-the-badge"/>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
-  <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -33,39 +33,34 @@
 
 ## 🎯 About Me
 
-<table>
-<tr>
-<td>
+- 🔭 Currently building real-world Flutter applications  
+- 🌱 Learning Advanced GetX & Clean Architecture  
+- 💬 Ask me about Flutter, Dart, REST API, Firebase  
+- 🎯 Goal: Becoming a Mid-Level Flutter Developer  
+- ⚡ Strong foundation in Data Structures & Algorithms  
 
-- 🔭 I’m currently working on Flutter projects  
-- 🌱 I’m learning Advanced GetX & Clean Architecture  
-- 💬 Ask me about Flutter, Dart, GetX, REST API, Firebase, ML, DS & Algorithms  
-- 🏆 I’m aiming to become a Mid-level Flutter Developer  
+---
 
-</td>
-<td>
-<img align="right" alt="coding" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQWxwkm yExglNqGp0IvTJZZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
-<!-- <img src="https://cdn.dribbble.com/users/325246/screenshots/3735988/programmer.gif" width="200" /> -->
+## 🌍 My Portfolio
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://hossainportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
+---
 
-## 💻 My Projects
-
+## 💻 Featured Projects
 
 | Project | Description | Tech |
-|---------|-------------|------|
-| e_commerce | Flutter E-commerce app | Flutter, Dart |
-| expense_tracker | Track expenses | Flutter, Dart |
-| task_manager | Manage tasks | Flutter, Dart |
-| unit_converter_app | Unit conversion app | Flutter, Dart |
-| Gymnasium-Website | Website for Gym | HTML, CSS |
-| Traveler-main | Travel website | HTML |
-
-
-
+|----------|-------------|------|
+| e_commerce | Full Flutter E-commerce app with API integration | Flutter, Dart |
+| expense_tracker | Expense tracking application | Flutter, Dart |
+| task_manager | Task management app | Flutter, Dart |
+| unit_converter_app | Smart unit conversion app | Flutter, Dart |
+| Gymnasium-Website | Responsive gym website | HTML, CSS |
+| Traveler-main | Travel landing website | HTML |
 
 ---
 
@@ -90,10 +85,13 @@
   <a href="mailto:hossainahammed627@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://hossainportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## ✨ I am a.....
+## ✨ I Am a...
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F72D&lines=Flutter+Developer;CSE+Graduate;REST+API+%26+Firebase;ML+Enthusiast;Always+Learning+New+Things)
