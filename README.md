@@ -32,11 +32,26 @@
 
 
 ## 🎯 About Me
+
 <table>
-<tr> <td> - 🔭 Currently building real-world Flutter applications  🌱 Learning Advanced GetX & Clean Architecture - 💬 Ask me about Flutter, Dart, GetX, REST API, Firebase - 🏆 I’m aiming to become a Mid-level Flutter - ⚡ Strong foundation in Data Structures & Algorithms & ML  Developer
-</td> <td> <img align="right" alt="coding" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQWxwkm yExglNqGp0IvTJZZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"> <!-- <img src="https://cdn.dribbble.com/users/325246/screenshots/3735988/programmer.gif" width="200" /> --> 
-</td> </tr>
+<tr>
+<td width="60%">
+
+- 🔭 Currently building real-world Flutter applications  
+- 🌱 Learning Advanced GetX & Clean Architecture  
+- 💬 Ask me about Flutter, Dart, GetX, REST API, Firebase  
+- 🏆 Aiming to become a Mid-Level Flutter Developer  
+- ⚡ Strong foundation in Data Structures, Algorithms & Machine Learning  
+
+</td>
+
+<td width="40%">
+<img align="right" alt="coding" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQWxwkm yExglNqGp0IvTJZZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+</td>
+
+</tr>
 </table>
+
 
 ## 🌍 My Portfolio
 
