@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=Flutter+Developer+CSE+Graduate+🚀;Building+Scalable+Mobile+Apps;Open+Source+Contributor+🤝"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=Flutter+Developer;CSE+Graduate;🚀Building+Scalable+Mobile+Apps;Open+Source+Contributor+🤝"/>
 
 </p>
 
@@ -89,6 +89,13 @@
 [![Hossain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hossainahammed&theme=tokyo-night)](https://github.com/hossainahammed)
 
 ---
+# 💡 Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
 
 # 🌍 Portfolio
 
