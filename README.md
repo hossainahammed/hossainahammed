@@ -1,8 +1,16 @@
-<h1 align="center">Hi 👋, I'm Hossain Ahammed</h1>
-<h3 align="center">Flutter Developer | CSE Graduate | Mobile App Enthusiast</h3>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hossain%20Ahammed&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=55&fontColor=ffffff" width="100%" />
+</div>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=hossainahammed&label=Profile%20Views&color=blue&style=flat" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=Flutter+Developer+CSE+Graduate+🚀;Building+Scalable+Mobile+Apps;Open+Source+Contributor+🤝"/>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=hossainahammed&label=Profile%20views&color=0891b2&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/hossainahammed?logo=github&style=for-the-badge"/>
 </p>
 
 ---
@@ -17,31 +25,34 @@
 
 ---
 
-# 🛠 Tech Stack & Skills
+# 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,java,php,js,html,css,mysql"/>
-  <img alt="GetX" src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge"/>
-  <img alt="REST API" src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge"/>
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-4B0082?style=for-the-badge"/>
-  <img alt="Data Structures" src="https://img.shields.io/badge/DS-FF5733?style=for-the-badge"/>
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-008080?style=for-the-badge"/>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,java,php,js,html,css,mysql,git,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-4B0082?style=for-the-badge"/>
+
 </p>
 
 ---
-
-
 
 # 💻 Featured Projects
 
 | Project | Description | Tech |
 |-------|-------------|------|
-| E-commerce App | Full Flutter shopping application | Flutter |
+| E-commerce App | Full Flutter shopping app | Flutter |
 | Expense Tracker | Track daily expenses | Flutter |
-| Task Manager | Task management system | Flutter |
-| Unit Converter | Smart unit conversion app | Flutter |
+| Task Manager | Task management app | Flutter |
+| Unit Converter | Smart converter app | Flutter |
 | Gym Website | Responsive gym website | HTML CSS |
-| Travel Website | Landing page design | HTML |
+| Travel Website | Travel landing page | HTML |
 
 ---
 
@@ -104,19 +115,6 @@
 <a href="mailto:hossainahammed627@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
- <a href="https://hossainportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-
-</p>
-
----
-
-# ✨ I Am a...
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F72D&center=true&vCenter=true&width=500&lines=Flutter+Developer;CSE+Graduate;REST+API+Specialist;Always+Learning+New+Things"/>
 
 </p>
 
@@ -124,6 +122,4 @@
 
 # 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/> </p>
