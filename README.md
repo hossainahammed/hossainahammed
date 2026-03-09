@@ -106,4 +106,4 @@
 
 ## ✨ I Am a...
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F72D&lines=Flutter+Developer;CSE+Graduate;REST+API+%26+Firebase;ML+Enthusiast;Always+Learning+New+Things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F72D&lines=Flutter+Developer;CSE+Graduate;REST+API+%26+Firebase Specialist;ML+Enthusiast;Always+Learning+New+Things)
